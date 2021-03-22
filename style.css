@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: fantasy;
+}
+
+body > header {
+    background-color:whitesmoke;
+}
+
+nav > ul {
+    list-style: none;
+}
+
+nav > ul > li > a {
+    color: saddlebrown;
+}
+
+body > main > article {
+    margin: auto;
+    width: 100%;
+}
+
